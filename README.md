@@ -29,14 +29,14 @@ A lightweight C# console tool for converting RGB colour values (0–255) to Pro 
 
 ## Requirements
 
-- Windows OS
-- [.NET 10.0](https://dotnet.microsoft.com/en-us/download) or later
+- Windows 64-bit OS
+- No .NET installation required (self-contained)
 
 ---
 
 ## Usage
 
-1. Run `PESRGBConverter.exe`
+1. Run `RGB to PES Converter.exe`
 2. Enter the **Red** value (0–255) when prompted
 3. Enter the **Green** value (0–255) when prompted
 4. Enter the **Blue** value (0–255) when prompted
